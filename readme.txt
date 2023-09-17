@@ -2,8 +2,11 @@ Extremely Small Automatic Code Generator using PHP.
 This program is under GPLv3 License.
 
 Below Command will convert 
+
     *.[file_extension].php file to
     *.[file_extension]
+    
+    in given directory.
 
 ./phpCodeGen [Directory]
 
